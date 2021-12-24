@@ -1,4 +1,4 @@
-# cs174A-project
+# PFAV
 ## A Path Finding Algorithm Visualization Tool
 ![image](./docs/gbf_example.png)
 
